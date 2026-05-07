@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-29)
+## Unreleased (2026-05-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0dd5d2b`](https://github.com/stdlib-js/stdlib/commit/0dd5d2bed9ccea95d15ebbd110a7eea323ff81fa) - **refactor:** remove unused header _(by Athan Reines)_
 -   [`28917cf`](https://github.com/stdlib-js/stdlib/commit/28917cf0c4386cb3c16c5bec7fbb3ac7ae9ffe54) - **feat:** add `blas/ext/base/swhere` [(#11582)](https://github.com/stdlib-js/stdlib/pull/11582) _(by Muhammad Haris, Athan Reines)_
 
 </details>
